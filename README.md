@@ -1,4 +1,4 @@
-![Banner](setup.jpg)
+![Banner](banner.jpg)
 
 ## Hi there 👋
 
